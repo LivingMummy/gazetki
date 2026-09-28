@@ -1,0 +1,98 @@
+{
+ "id": "523359",
+ "brand": {
+  "name": "Kaufland",
+  "slug": "kaufland"
+ },
+ "viewer": {
+  "leaflet_name": "Barek Kauflandu",
+  "date_start": null,
+  "date_end": {
+   "date": "2026-09-30 23:59:00.000000"
+  },
+  "pages": [
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "leaflet_url": "https://blix.pl/sklep/kaufland/gazetka/523359/"
+ },
+ "productOffers": [
+  {
+   "area": {
+    "bottomRightCorner": {
+     "x": 0.34,
+     "y": 0.6
+    },
+    "topLeftCorner": {
+     "x": 0,
+     "y": 0.25
+    }
+   },
+   "availabilityLabel": {
+    "class": "lav-starting-soon",
+    "message": "już za 7 dni"
+   },
+   "brandName": "Test",
+   "brandUuid": null,
+   "dateEnd": {
+    "date": "2026-09-30 23:59:59.000000",
+    "timezone": "Europe/Warsaw",
+    "timezone_type": 3
+   },
+   "dateStart": {
+    "date": "2026-09-24 00:00:00.000000",
+    "timezone": "Europe/Warsaw",
+    "timezone_type": 3
+   },
+   "hash": null,
+   "hiperCategoryId": null,
+   "image": "",
+   "leafletId": 526038,
+   "manufacturerName": null,
+   "manufacturerUuid": null,
+   "name": "Whisky Test",
+   "offerSubcategoryId": null,
+   "pageNumber": 2,
+   "percentDiscount": 0,
+   "price": 5999,
+   "productLeafletPageUuid": "k1",
+   "subBrandName": null,
+   "subBrandUuid": null
+  }
+ ]
+}

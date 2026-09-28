@@ -1,0 +1,5 @@
+curl_cffi>=0.7
+requests>=2.31
+pandas>=2.1
+openpyxl>=3.1
+xlsxwriter>=3.1

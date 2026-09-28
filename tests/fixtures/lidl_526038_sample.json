@@ -1,0 +1,207 @@
+{
+ "id": 526038,
+ "brand": {
+  "id": 1,
+  "logo_uri": "https://imgproxy.blix.pl/image/brand/thumbnail_1.jpg",
+  "name": "Lidl",
+  "slug": "lidl"
+ },
+ "viewer": {
+  "date_end": {
+   "date": "2026-10-10 23:59:00.000000",
+   "timezone": "Europe/Warsaw",
+   "timezone_type": 3
+  },
+  "date_start": {
+   "date": "2026-10-05 00:00:00.000000",
+   "timezone": "Europe/Warsaw",
+   "timezone_type": 3
+  },
+  "has_alcohol": false,
+  "img_url": "https://gazetki.blix.pl/api/",
+  "leaflet_name": "Katalog",
+  "leaflet_url": "https://blix.pl/sklep/lidl/gazetka/526038/",
+  "pages": [
+   {
+    "page": 0,
+    "leaflet_id": 526038,
+    "page_uri": "https://blix.pl/sklep/lidl/gazetka/526038/?pageNumber=1"
+   },
+   {
+    "page": 1,
+    "leaflet_id": 526038,
+    "page_uri": "https://blix.pl/sklep/lidl/gazetka/526038/?pageNumber=2"
+   }
+  ]
+ },
+ "productOffers": [
+  {
+   "area": {
+    "bottomRightCorner": {
+     "x": 0.34,
+     "y": 0.6
+    },
+    "topLeftCorner": {
+     "x": 0,
+     "y": 0.25
+    }
+   },
+   "availabilityLabel": {
+    "class": "lav-starting-soon",
+    "message": "już za 7 dni"
+   },
+   "brandName": "Lupilu",
+   "brandUuid": null,
+   "dateEnd": {
+    "date": "2026-10-10 23:59:59.000000",
+    "timezone": "Europe/Warsaw",
+    "timezone_type": 3
+   },
+   "dateStart": {
+    "date": "2026-10-08 00:00:00.000000",
+    "timezone": "Europe/Warsaw",
+    "timezone_type": 3
+   },
+   "hash": null,
+   "hiperCategoryId": null,
+   "image": "https://imgproxy.blix.pl/product_occurrence//e1c56ff0-b738-4245-83c3-bc4c55df0999.jpg",
+   "leafletId": 526038,
+   "manufacturerName": null,
+   "manufacturerUuid": null,
+   "name": "Ocieplane buty dziecięce Lupilu",
+   "offerSubcategoryId": null,
+   "pageNumber": 0,
+   "percentDiscount": 0,
+   "price": 3999,
+   "productLeafletPageUuid": "01a0e865-8fb4-7898-881d-b3795e243080",
+   "subBrandName": null,
+   "subBrandUuid": null
+  },
+  {
+   "area": {
+    "bottomRightCorner": {
+     "x": 0.34,
+     "y": 0.6
+    },
+    "topLeftCorner": {
+     "x": 0,
+     "y": 0.25
+    }
+   },
+   "availabilityLabel": {
+    "class": "lav-starting-soon",
+    "message": "już za 7 dni"
+   },
+   "brandName": "Parkside",
+   "brandUuid": null,
+   "dateEnd": {
+    "date": "2026-10-10 23:59:59.000000",
+    "timezone": "Europe/Warsaw",
+    "timezone_type": 3
+   },
+   "dateStart": {
+    "date": "2026-10-10 00:00:00.000000",
+    "timezone": "Europe/Warsaw",
+    "timezone_type": 3
+   },
+   "hash": null,
+   "hiperCategoryId": null,
+   "image": "",
+   "leafletId": 526038,
+   "manufacturerName": null,
+   "manufacturerUuid": null,
+   "name": "Odkurzacz 3 w 1 z funkcją dmuchawy Parkside",
+   "offerSubcategoryId": null,
+   "pageNumber": 0,
+   "percentDiscount": 0,
+   "price": 9900,
+   "productLeafletPageUuid": "01a0e865-8fb4-7904-881d-b3795e512b1a",
+   "subBrandName": null,
+   "subBrandUuid": null
+  },
+  {
+   "area": {
+    "bottomRightCorner": {
+     "x": 0.34,
+     "y": 0.6
+    },
+    "topLeftCorner": {
+     "x": 0,
+     "y": 0.25
+    }
+   },
+   "availabilityLabel": {
+    "class": "lav-starting-soon",
+    "message": "już za 7 dni"
+   },
+   "brandName": "Silvercrest",
+   "brandUuid": null,
+   "dateEnd": {
+    "date": "2026-10-10 23:59:59.000000",
+    "timezone": "Europe/Warsaw",
+    "timezone_type": 3
+   },
+   "dateStart": {
+    "date": "2026-10-05 00:00:00.000000",
+    "timezone": "Europe/Warsaw",
+    "timezone_type": 3
+   },
+   "hash": null,
+   "hiperCategoryId": null,
+   "image": "",
+   "leafletId": 526038,
+   "manufacturerName": null,
+   "manufacturerUuid": null,
+   "name": "Patelnie i garnki ze stali szlachetnej z warstwą miedzi Silvercrest",
+   "offerSubcategoryId": null,
+   "pageNumber": 0,
+   "percentDiscount": 0,
+   "price": null,
+   "productLeafletPageUuid": "01a0e865-8fb4-792c-881d-b3795e5efe42",
+   "subBrandName": null,
+   "subBrandUuid": null
+  },
+  {
+   "area": {
+    "bottomRightCorner": {
+     "x": 0.34,
+     "y": 0.6
+    },
+    "topLeftCorner": {
+     "x": 0,
+     "y": 0.25
+    }
+   },
+   "availabilityLabel": {
+    "class": "lav-starting-soon",
+    "message": "już za 7 dni"
+   },
+   "brandName": "Silvercrest",
+   "brandUuid": null,
+   "dateEnd": {
+    "date": "2026-10-10 23:59:59.000000",
+    "timezone": "Europe/Warsaw",
+    "timezone_type": 3
+   },
+   "dateStart": {
+    "date": "2026-10-05 00:00:00.000000",
+    "timezone": "Europe/Warsaw",
+    "timezone_type": 3
+   },
+   "hash": "0e5c497f2",
+   "hiperCategoryId": null,
+   "image": "",
+   "leafletId": 526038,
+   "manufacturerName": null,
+   "manufacturerUuid": null,
+   "name": "Wyciskarka wolnoobrotowa Silvercrest",
+   "offerSubcategoryId": null,
+   "pageNumber": 3,
+   "percentDiscount": 0,
+   "price": 19900,
+   "productLeafletPageUuid": "01a0e865-9045-715f-bb56-d77d2f10ede5",
+   "subBrandName": null,
+   "subBrandUuid": null
+  }
+ ]
+}
