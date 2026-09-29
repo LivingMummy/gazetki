@@ -1,28 +1,29 @@
 gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobranie,url
-526038,Lidl,Katalog,2026-10-05,2026-10-10,63,134,2026-09-28,2026-09-28,https://blix.pl/sklep/lidl/gazetka/526038/
-526032,Lidl,Oferta od poniedziałku,2026-09-28,2026-09-30,103,513,2026-09-28,2026-09-28,https://blix.pl/sklep/lidl/gazetka/526032/
-525459,Lidl,Katalog,2026-09-28,2026-10-03,59,140,2026-09-28,2026-09-28,https://blix.pl/sklep/lidl/gazetka/525459/
-525723,Kaufland,Mocny Start,2026-09-28,2026-09-30,31,266,2026-09-28,2026-09-28,https://blix.pl/sklep/kaufland/gazetka/525723/
-526062,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-09-28,2026-10-03,108,1115,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/526062/
-526059,Biedronka,Od poniedziałku,2026-09-28,2026-10-03,108,1106,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/526059/
-525951,Biedronka,Biedronkowe oszczędności od poniedziałku,2026-09-28,2026-09-30,22,80,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525951/
-525915,Biedronka,Pyszne dania w kilka chwil,2026-09-28,2026-10-03,6,52,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525915/
-525891,Biedronka,Gang zaradniaków,2026-09-28,2026-10-03,11,107,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525891/
-525888,Biedronka,Dzień zwierzaka,2026-09-28,2026-10-03,6,56,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525888/
-525879,Biedronka,"Hity i inspiracje, od 26.09",2026-09-26,2026-10-14,50,290,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525879/
+526038,Lidl,Katalog,2026-10-05,2026-10-10,63,134,2026-09-28,2026-09-29,https://blix.pl/sklep/lidl/gazetka/526038/
+526056,Kaufland,Oferta Kaufland - Znicze,2026-10-01,2026-10-07,21,77,2026-09-29,2026-09-29,https://blix.pl/sklep/kaufland/gazetka/526056/
+526032,Lidl,Oferta od poniedziałku,2026-09-28,2026-09-30,103,513,2026-09-28,2026-09-29,https://blix.pl/sklep/lidl/gazetka/526032/
+525459,Lidl,Katalog,2026-09-28,2026-10-03,59,140,2026-09-28,2026-09-29,https://blix.pl/sklep/lidl/gazetka/525459/
+525723,Kaufland,Mocny Start,2026-09-28,2026-09-30,31,266,2026-09-28,2026-09-29,https://blix.pl/sklep/kaufland/gazetka/525723/
+526062,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-09-28,2026-10-03,108,1115,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/526062/
+526059,Biedronka,Od poniedziałku,2026-09-28,2026-10-03,108,1106,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/526059/
+525951,Biedronka,Biedronkowe oszczędności od poniedziałku,2026-09-28,2026-09-30,22,80,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/525951/
+525915,Biedronka,Pyszne dania w kilka chwil,2026-09-28,2026-10-03,6,52,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/525915/
+525891,Biedronka,Gang zaradniaków,2026-09-28,2026-10-03,11,107,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/525891/
+525888,Biedronka,Dzień zwierzaka,2026-09-28,2026-10-03,6,56,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/525888/
+525879,Biedronka,"Hity i inspiracje, od 26.09",2026-09-26,2026-10-14,50,290,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/525879/
 525588,Biedronka,Zakupowe Inspiracje w Biedronce,2026-09-25,,21,21,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525588/
 525585,Biedronka,Zakupowe Inspiracje - produkty do domu i dodatki modowe,2026-09-25,,19,18,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525585/
 525465,Biedronka,Kawa i słodkości - przegląd cen,2026-09-25,2026-09-28,15,7,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525465/
-525906,Kaufland,Gazetka Tygodnia,2026-09-24,2026-09-30,70,560,2026-09-28,2026-09-28,https://blix.pl/sklep/kaufland/gazetka/525906/
-524721,Kaufland,Oferta Kaufland - Non Food,2026-09-24,2026-10-07,17,126,2026-09-28,2026-09-28,https://blix.pl/sklep/kaufland/gazetka/524721/
-524622,Kaufland,Oferta Kaufland - Znicze,2026-09-24,2026-09-30,21,74,2026-09-28,2026-09-28,https://blix.pl/sklep/kaufland/gazetka/524622/
-525678,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-09-24,2026-09-30,97,688,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525678/
-525675,Biedronka,Od czwartku,2026-09-24,2026-09-30,97,684,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525675/
-524451,Biedronka,Czas na toast,2026-09-21,2026-10-03,41,180,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/524451/
-524442,Biedronka,"Znicze, wkłady i kwiaty",2026-09-21,,17,63,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/524442/
-525876,Biedronka,"Hity i inspiracje, od 19.09",2026-09-19,2026-10-07,47,287,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525876/
-525303,Biedronka,"Hity i inspiracje, od 12.09",2026-09-12,2026-09-30,48,336,2026-09-28,2026-09-28,https://blix.pl/sklep/biedronka/gazetka/525303/
-525918,Lidl,Rewolucja Cenowa!,2026-08-21,2026-09-30,33,129,2026-09-28,2026-09-28,https://blix.pl/sklep/lidl/gazetka/525918/
-522984,Lidl,Kompletna Wyprawka W Megacenach,2026-07-14,2026-09-30,75,67,2026-09-28,2026-09-28,https://blix.pl/sklep/lidl/gazetka/522984/
-523359,Kaufland,Barek Kauflandu,,2026-09-30,37,153,2026-09-28,2026-09-28,https://blix.pl/sklep/kaufland/gazetka/523359/
-458402,Kaufland,Plakat informacyjny - obowiązywanie gazetek,,2026-12-31,2,0,2026-09-28,2026-09-28,https://blix.pl/sklep/kaufland/gazetka/458402/
+525906,Kaufland,Gazetka Tygodnia,2026-09-24,2026-09-30,70,560,2026-09-28,2026-09-29,https://blix.pl/sklep/kaufland/gazetka/525906/
+524721,Kaufland,Oferta Kaufland - Non Food,2026-09-24,2026-10-07,17,126,2026-09-28,2026-09-29,https://blix.pl/sklep/kaufland/gazetka/524721/
+524622,Kaufland,Oferta Kaufland - Znicze,2026-09-24,2026-09-30,21,74,2026-09-28,2026-09-29,https://blix.pl/sklep/kaufland/gazetka/524622/
+525678,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-09-24,2026-09-30,97,688,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/525678/
+525675,Biedronka,Od czwartku,2026-09-24,2026-09-30,97,684,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/525675/
+524451,Biedronka,Czas na toast,2026-09-21,2026-10-03,41,180,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/524451/
+524442,Biedronka,"Znicze, wkłady i kwiaty",2026-09-21,,17,63,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/524442/
+525876,Biedronka,"Hity i inspiracje, od 19.09",2026-09-19,2026-10-07,47,287,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/525876/
+525303,Biedronka,"Hity i inspiracje, od 12.09",2026-09-12,2026-09-30,48,336,2026-09-28,2026-09-29,https://blix.pl/sklep/biedronka/gazetka/525303/
+525918,Lidl,Rewolucja Cenowa!,2026-08-21,2026-09-30,33,129,2026-09-28,2026-09-29,https://blix.pl/sklep/lidl/gazetka/525918/
+522984,Lidl,Kompletna Wyprawka W Megacenach,2026-07-14,2026-09-30,75,67,2026-09-28,2026-09-29,https://blix.pl/sklep/lidl/gazetka/522984/
+523359,Kaufland,Barek Kauflandu,,2026-09-30,37,153,2026-09-28,2026-09-29,https://blix.pl/sklep/kaufland/gazetka/523359/
+458402,Kaufland,Plakat informacyjny - obowiązywanie gazetek,,2026-12-31,2,0,2026-09-28,2026-09-29,https://blix.pl/sklep/kaufland/gazetka/458402/
