@@ -1,14 +1,23 @@
 gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobranie,url
 528000,Lidl,Katalog,2026-10-12,2026-10-24,57,131,2026-10-07,2026-10-09,https://blix.pl/sklep/lidl/gazetka/528000/
 527235,Lidl,Katalog,2026-10-12,2026-10-24,57,126,2026-10-05,2026-10-07,https://blix.pl/sklep/lidl/gazetka/527235/
+528381,Kaufland,Oferta Kaufland - SUPER SOBOTA,2026-10-10,2026-10-10,31,235,2026-10-09,2026-10-09,https://blix.pl/sklep/kaufland/gazetka/528381/
+528288,Biedronka,"Hity i inspiracje, od 10.10",2026-10-10,2026-10-28,45,311,2026-10-09,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/528288/
+528534,Biedronka,Weekendowe okazje,2026-10-09,2026-10-10,5,29,2026-10-09,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/528534/
+528315,Biedronka,Zakupowe Inspiracje - produkty do domu i dodatki modowe,2026-10-09,,19,18,2026-10-09,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/528315/
 528279,Biedronka,Weekendowe okazje,2026-10-09,2026-10-10,4,28,2026-10-09,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/528279/
+528180,Biedronka,Produkty FIT i PROTEINOWE - przegląd cen,2026-10-09,2026-10-12,16,14,2026-10-09,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/528180/
+527499,Biedronka,Zakupowe Inspiracje w Biedronce,2026-10-09,,19,18,2026-10-09,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/527499/
 528132,Lidl,Od czwartku,2026-10-08,2026-10-10,98,526,2026-10-08,2026-10-09,https://blix.pl/sklep/lidl/gazetka/528132/
 528027,Lidl,Od czwartku,2026-10-08,2026-10-10,99,533,2026-10-08,2026-10-08,https://blix.pl/sklep/lidl/gazetka/528027/
 527715,Lidl,Gazetka,2026-10-08,2026-10-10,99,528,2026-10-07,2026-10-07,https://blix.pl/sklep/lidl/gazetka/527715/
+528519,Kaufland,Gazetka Tygodnia,2026-10-08,2026-10-14,71,584,2026-10-09,2026-10-09,https://blix.pl/sklep/kaufland/gazetka/528519/
 527790,Kaufland,Gazetka Tygodnia,2026-10-08,2026-10-14,71,584,2026-10-07,2026-10-09,https://blix.pl/sklep/kaufland/gazetka/527790/
 527532,Kaufland,Oferta Kaufland - Non Food,2026-10-08,2026-10-21,19,154,2026-10-06,2026-10-09,https://blix.pl/sklep/kaufland/gazetka/527532/
 527493,Kaufland,Oferta Kaufland - Znicze,2026-10-08,2026-10-14,21,75,2026-10-06,2026-10-09,https://blix.pl/sklep/kaufland/gazetka/527493/
 527484,Kaufland,Gazetka Tygodnia,2026-10-08,2026-10-14,71,585,2026-10-06,2026-10-07,https://blix.pl/sklep/kaufland/gazetka/527484/
+528549,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-10-08,2026-10-14,84,687,2026-10-09,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/528549/
+528540,Biedronka,Od czwartku,2026-10-08,2026-10-14,84,685,2026-10-09,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/528540/
 528273,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-10-08,2026-10-14,84,688,2026-10-08,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/528273/
 528270,Biedronka,Od czwartku,2026-10-08,2026-10-14,84,686,2026-10-08,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/528270/
 528258,Biedronka,Biedronkowe oszczędności od czwartku,2026-10-08,2026-10-10,21,57,2026-10-08,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/528258/
@@ -21,6 +30,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 527466,Biedronka,Zakupowe Inspiracje - produkty do domu i dodatki modowe,2026-10-06,,19,18,2026-10-06,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/527466/
 527460,Biedronka,Festiwal wędlin,2026-10-06,2026-10-10,3,27,2026-10-06,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/527460/
 527424,Biedronka,Festiwal nabiału,2026-10-06,2026-10-10,7,43,2026-10-05,2026-10-09,https://blix.pl/sklep/biedronka/gazetka/527424/
+528309,Lidl,Katalog,2026-10-05,2026-10-10,61,139,2026-10-09,2026-10-09,https://blix.pl/sklep/lidl/gazetka/528309/
 528153,Lidl,Katalog,2026-10-05,2026-10-10,61,134,2026-10-08,2026-10-09,https://blix.pl/sklep/lidl/gazetka/528153/
 528024,Lidl,Katalog,2026-10-05,2026-10-10,62,134,2026-10-08,2026-10-08,https://blix.pl/sklep/lidl/gazetka/528024/
 527502,Lidl,Katalog,2026-10-05,2026-10-10,62,135,2026-10-06,2026-10-07,https://blix.pl/sklep/lidl/gazetka/527502/
@@ -76,6 +86,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 526611,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-10-01,2026-10-07,95,673,2026-09-30,2026-10-01,https://blix.pl/sklep/biedronka/gazetka/526611/
 526608,Biedronka,Od czwartku,2026-10-01,2026-10-07,95,662,2026-09-30,2026-10-01,https://blix.pl/sklep/biedronka/gazetka/526608/
 526179,Biedronka,Produkty na jesienną zupę - przegląd cen,2026-10-01,2026-10-03,15,0,2026-09-30,2026-10-03,https://blix.pl/sklep/biedronka/gazetka/526179/
+528363,Lidl,Katalog alkoholi mocnych,2026-09-29,2026-10-31,24,75,2026-10-09,2026-10-09,https://blix.pl/sklep/lidl/gazetka/528363/
 527037,Lidl,Katalog alkoholi mocnych,2026-09-29,2026-10-31,23,67,2026-10-02,2026-10-09,https://blix.pl/sklep/lidl/gazetka/527037/
 526182,Lidl,Karta Win,2026-09-29,2026-10-31,24,46,2026-09-29,2026-10-09,https://blix.pl/sklep/lidl/gazetka/526182/
 526173,Lidl,Katalog alkoholi mocnych,2026-09-29,2026-10-31,22,59,2026-09-29,2026-10-02,https://blix.pl/sklep/lidl/gazetka/526173/
@@ -118,6 +129,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 524442,Biedronka,"Znicze, wkłady i kwiaty",2026-09-21,,17,63,2026-09-28,2026-10-03,https://blix.pl/sklep/biedronka/gazetka/524442/
 526536,Biedronka,"Hity i inspiracje, od 19.09",2026-09-19,2026-10-07,47,287,2026-09-30,2026-10-07,https://blix.pl/sklep/biedronka/gazetka/526536/
 525876,Biedronka,"Hity i inspiracje, od 19.09",2026-09-19,2026-10-07,47,287,2026-09-28,2026-09-30,https://blix.pl/sklep/biedronka/gazetka/525876/
+528558,Lidl,Rewolucja Cenowa!,2026-09-16,2026-12-31,33,0,2026-10-09,2026-10-09,https://blix.pl/sklep/lidl/gazetka/528558/
 525303,Biedronka,"Hity i inspiracje, od 12.09",2026-09-12,2026-09-30,48,336,2026-09-28,2026-09-30,https://blix.pl/sklep/biedronka/gazetka/525303/
 525918,Lidl,Rewolucja Cenowa!,2026-08-21,2026-09-30,33,129,2026-09-28,2026-09-30,https://blix.pl/sklep/lidl/gazetka/525918/
 522984,Lidl,Kompletna Wyprawka W Megacenach,2026-07-14,2026-09-30,75,67,2026-09-28,2026-09-30,https://blix.pl/sklep/lidl/gazetka/522984/
