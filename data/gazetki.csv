@@ -4,8 +4,11 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 529071,Lidl,Katalog,2026-10-19,2026-10-24,60,176,2026-10-13,2026-10-14,https://blix.pl/sklep/lidl/gazetka/529071/
 528651,Lidl,Katalog,2026-10-19,2026-10-24,59,171,2026-10-12,2026-10-13,https://blix.pl/sklep/lidl/gazetka/528651/
 529665,Kaufland,Oferta Kaufland - SUPER SOBOTA,2026-10-17,2026-10-17,31,221,2026-10-16,2026-10-16,https://blix.pl/sklep/kaufland/gazetka/529665/
-529731,Biedronka,"Hity i inspiracje, od 17.10",2026-10-17,2026-11-04,45,0,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529731/
-529734,Biedronka,Weekendowe okazje zaczynają się w piątek,2026-10-16,2026-10-17,4,0,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529734/
+529731,Biedronka,"Hity i inspiracje, od 17.10",2026-10-17,2026-11-04,45,207,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529731/
+529755,Biedronka,Zakupowe Inspiracje - produkty do domu i dodatki modowe,2026-10-16,,20,19,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529755/
+529734,Biedronka,Weekendowe okazje zaczynają się w piątek,2026-10-16,2026-10-17,4,21,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529734/
+529518,Biedronka,"Wędliny, pieczywo, nabiał - przegląd cen",2026-10-16,2026-10-19,17,0,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529518/
+528954,Biedronka,Zakupowe Inspiracje w Biedronce,2026-10-16,,19,18,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/528954/
 529662,Lidl,Oferta od czwartku,2026-10-15,2026-10-17,114,681,2026-10-15,2026-10-16,https://blix.pl/sklep/lidl/gazetka/529662/
 529128,Lidl,Oferta od czwartku,2026-10-15,2026-10-17,116,681,2026-10-14,2026-10-15,https://blix.pl/sklep/lidl/gazetka/529128/
 529398,Kaufland,Gazetka Tygodnia,2026-10-15,2026-10-21,61,575,2026-10-14,2026-10-16,https://blix.pl/sklep/kaufland/gazetka/529398/
@@ -15,6 +18,8 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 528903,Kaufland,Oferta Kaufland - Non Food,2026-10-15,2026-10-28,17,121,2026-10-13,2026-10-16,https://blix.pl/sklep/kaufland/gazetka/528903/
 528900,Kaufland,Gazetka Tygodnia,2026-10-15,2026-10-21,61,576,2026-10-13,2026-10-14,https://blix.pl/sklep/kaufland/gazetka/528900/
 528879,Kaufland,Oferta Kaufland - Znicze,2026-10-15,2026-10-21,21,73,2026-10-13,2026-10-16,https://blix.pl/sklep/kaufland/gazetka/528879/
+530004,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-10-15,2026-10-21,101,0,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/530004/
+530001,Biedronka,Od czwartku,2026-10-15,2026-10-21,100,0,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/530001/
 529542,Biedronka,Nowości w Biedronce!,2026-10-15,2026-10-17,11,17,2026-10-15,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529542/
 529500,Biedronka,Biedronkowe oszczędności od czwartku,2026-10-15,2026-10-17,22,61,2026-10-15,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529500/
 529428,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-10-15,2026-10-21,92,620,2026-10-15,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529428/
@@ -33,6 +38,8 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 528000,Lidl,Katalog,2026-10-12,2026-10-24,57,131,2026-10-07,2026-10-12,https://blix.pl/sklep/lidl/gazetka/528000/
 527235,Lidl,Katalog,2026-10-12,2026-10-24,57,126,2026-10-05,2026-10-07,https://blix.pl/sklep/lidl/gazetka/527235/
 528384,Kaufland,Mocny Start,2026-10-12,2026-10-14,31,250,2026-10-10,2026-10-14,https://blix.pl/sklep/kaufland/gazetka/528384/
+529869,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-10-12,2026-10-17,103,1007,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529869/
+529851,Biedronka,Od poniedziałku,2026-10-12,2026-10-17,102,955,2026-10-16,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529851/
 529410,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-10-12,2026-10-17,103,1059,2026-10-14,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529410/
 529404,Biedronka,Od poniedziałku,2026-10-12,2026-10-17,102,1044,2026-10-14,2026-10-16,https://blix.pl/sklep/biedronka/gazetka/529404/
 529125,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-10-12,2026-10-17,103,1061,2026-10-14,2026-10-14,https://blix.pl/sklep/biedronka/gazetka/529125/
