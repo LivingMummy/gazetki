@@ -10,6 +10,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 529734,Biedronka,Weekendowe okazje zaczynają się w piątek,2026-10-16,2026-10-17,4,21,2026-10-16,2026-10-17,https://blix.pl/sklep/biedronka/gazetka/529734/
 529518,Biedronka,"Wędliny, pieczywo, nabiał - przegląd cen",2026-10-16,2026-10-19,17,0,2026-10-16,2026-10-17,https://blix.pl/sklep/biedronka/gazetka/529518/
 528954,Biedronka,Zakupowe Inspiracje w Biedronce,2026-10-16,,19,18,2026-10-16,2026-10-17,https://blix.pl/sklep/biedronka/gazetka/528954/
+530064,Lidl,Oferta od czwartku,2026-10-15,2026-10-17,114,674,2026-10-17,2026-10-17,https://blix.pl/sklep/lidl/gazetka/530064/
 529662,Lidl,Oferta od czwartku,2026-10-15,2026-10-17,114,681,2026-10-15,2026-10-17,https://blix.pl/sklep/lidl/gazetka/529662/
 529128,Lidl,Oferta od czwartku,2026-10-15,2026-10-17,116,681,2026-10-14,2026-10-15,https://blix.pl/sklep/lidl/gazetka/529128/
 529398,Kaufland,Gazetka Tygodnia,2026-10-15,2026-10-21,61,575,2026-10-14,2026-10-17,https://blix.pl/sklep/kaufland/gazetka/529398/
@@ -31,6 +32,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 529038,Biedronka,Mięso - przegląd cen,2026-10-15,2026-10-17,14,0,2026-10-14,2026-10-17,https://blix.pl/sklep/biedronka/gazetka/529038/
 528957,Biedronka,Zakupowe Inspiracje - produkty do domu i dodatki modowe,2026-10-13,,19,18,2026-10-13,2026-10-15,https://blix.pl/sklep/biedronka/gazetka/528957/
 528951,Biedronka,Zakupowe Inspiracje w Biedronce,2026-10-13,,18,16,2026-10-13,2026-10-15,https://blix.pl/sklep/biedronka/gazetka/528951/
+530067,Lidl,Katalog,2026-10-12,2026-10-24,60,151,2026-10-17,2026-10-17,https://blix.pl/sklep/lidl/gazetka/530067/
 529113,Lidl,Od poniedziałku,2026-10-12,2026-10-14,116,644,2026-10-14,2026-10-14,https://blix.pl/sklep/lidl/gazetka/529113/
 529104,Lidl,Katalog,2026-10-12,2026-10-24,61,151,2026-10-13,2026-10-17,https://blix.pl/sklep/lidl/gazetka/529104/
 528894,Lidl,Od poniedziałku,2026-10-12,2026-10-14,115,645,2026-10-12,2026-10-13,https://blix.pl/sklep/lidl/gazetka/528894/
