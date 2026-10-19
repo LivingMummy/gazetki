@@ -1,5 +1,7 @@
 gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobranie,url
+530247,Lidl,Katalog,2026-10-26,2026-10-31,60,219,2026-10-19,2026-10-19,https://blix.pl/sklep/lidl/gazetka/530247/
 530109,Lidl,Katalog,2026-10-26,2026-10-31,60,219,2026-10-19,2026-10-19,https://blix.pl/sklep/lidl/gazetka/530109/
+530337,Lidl,Oferta od poniedziałku,2026-10-19,2026-10-21,103,487,2026-10-19,2026-10-19,https://blix.pl/sklep/lidl/gazetka/530337/
 530094,Lidl,Oferta od poniedziałku,2026-10-19,2026-10-21,103,486,2026-10-18,2026-10-19,https://blix.pl/sklep/lidl/gazetka/530094/
 530070,Lidl,Oferta od poniedziałku,2026-10-19,2026-10-21,114,391,2026-10-18,2026-10-18,https://blix.pl/sklep/lidl/gazetka/530070/
 529692,Lidl,Katalog,2026-10-19,2026-10-24,60,176,2026-10-16,2026-10-19,https://blix.pl/sklep/lidl/gazetka/529692/
@@ -7,6 +9,9 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 529071,Lidl,Katalog,2026-10-19,2026-10-24,60,176,2026-10-13,2026-10-14,https://blix.pl/sklep/lidl/gazetka/529071/
 528651,Lidl,Katalog,2026-10-19,2026-10-24,59,171,2026-10-12,2026-10-13,https://blix.pl/sklep/lidl/gazetka/528651/
 529719,Kaufland,Mocny Start,2026-10-19,2026-10-21,33,271,2026-10-17,2026-10-19,https://blix.pl/sklep/kaufland/gazetka/529719/
+530265,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-10-19,2026-10-24,97,941,2026-10-19,2026-10-19,https://blix.pl/sklep/biedronka/gazetka/530265/
+530262,Biedronka,Od poniedziałku,2026-10-19,2026-10-24,97,937,2026-10-19,2026-10-19,https://blix.pl/sklep/biedronka/gazetka/530262/
+530160,Biedronka,Biedronkowe oszczędności od poniedziałku,2026-10-19,2026-10-21,21,48,2026-10-19,2026-10-19,https://blix.pl/sklep/biedronka/gazetka/530160/
 530106,Biedronka,Gang zaradniaków,2026-10-19,2026-10-24,11,132,2026-10-19,2026-10-19,https://blix.pl/sklep/biedronka/gazetka/530106/
 530103,Biedronka,Czas na toast,2026-10-19,2026-10-31,21,66,2026-10-19,2026-10-19,https://blix.pl/sklep/biedronka/gazetka/530103/
 530100,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-10-19,2026-10-24,98,942,2026-10-19,2026-10-19,https://blix.pl/sklep/biedronka/gazetka/530100/
