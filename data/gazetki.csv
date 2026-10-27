@@ -2,8 +2,13 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 531585,Lidl,Katalog,2026-11-02,2026-11-08,68,203,2026-10-26,2026-10-27,https://blix.pl/sklep/lidl/gazetka/531585/
 531774,Kaufland,Gazetka Tygodnia,2026-10-29,2026-11-04,67,574,2026-10-27,2026-10-27,https://blix.pl/sklep/kaufland/gazetka/531774/
 531771,Kaufland,Oferta Kaufland - Non Food,2026-10-29,2026-11-10,17,136,2026-10-27,2026-10-27,https://blix.pl/sklep/kaufland/gazetka/531771/
-531726,Kaufland,Oferta Kaufland - Znicze,2026-10-27,2026-11-04,21,76,2026-10-27,2026-10-27,https://blix.pl/sklep/kaufland/gazetka/531726/
+531726,Kaufland,Oferta Kaufland - Znicze,2026-10-29,2026-11-04,21,76,2026-10-27,2026-10-27,https://blix.pl/sklep/kaufland/gazetka/531726/
+531867,Biedronka,Najlepsze oferty na PIWO!,2026-10-27,2026-10-31,9,10,2026-10-27,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531867/
+531819,Biedronka,Zakupowe Inspiracje - produkty do domu i dodatki modowe,2026-10-27,,19,18,2026-10-27,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531819/
+531816,Biedronka,Zakupowe Inspiracje w Biedronce,2026-10-27,,19,16,2026-10-27,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531816/
 531768,Biedronka,Wtorek supercen,2026-10-27,2026-10-27,3,42,2026-10-27,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531768/
+531873,Lidl,Katalog,2026-10-26,2026-10-31,60,219,2026-10-27,2026-10-27,https://blix.pl/sklep/lidl/gazetka/531873/
+531861,Lidl,Oferta od poniedziałku,2026-10-26,2026-10-28,121,646,2026-10-27,2026-10-27,https://blix.pl/sklep/lidl/gazetka/531861/
 531708,Lidl,Katalog,2026-10-26,2026-10-31,60,219,2026-10-26,2026-10-27,https://blix.pl/sklep/lidl/gazetka/531708/
 531639,Lidl,Zakupowe inspiracje w Lidl,2026-10-26,,16,15,2026-10-26,2026-10-27,https://blix.pl/sklep/lidl/gazetka/531639/
 531603,Lidl,Oferta od poniedziałku,2026-10-26,2026-10-28,108,562,2026-10-26,2026-10-27,https://blix.pl/sklep/lidl/gazetka/531603/
@@ -13,6 +18,8 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 530109,Lidl,Katalog,2026-10-26,2026-10-31,60,219,2026-10-19,2026-10-19,https://blix.pl/sklep/lidl/gazetka/530109/
 531396,Kaufland,Mocny Start,2026-10-26,2026-10-28,33,257,2026-10-24,2026-10-27,https://blix.pl/sklep/kaufland/gazetka/531396/
 531099,Kaufland,Jack Daniel’s w Kauflandzie - wygraj podróż do USA!,2026-10-26,2026-10-31,6,7,2026-10-26,2026-10-27,https://blix.pl/sklep/kaufland/gazetka/531099/
+531891,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-10-26,2026-10-31,99,1006,2026-10-27,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531891/
+531885,Biedronka,Od poniedziałku,2026-10-26,2026-10-31,99,1006,2026-10-27,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531885/
 531618,Biedronka,Biedronkowe oszczędności od poniedziałku,2026-10-26,2026-10-28,24,38,2026-10-26,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531618/
 531576,Biedronka,Gang zaradniaków,2026-10-26,2026-10-31,12,116,2026-10-25,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531576/
 531573,Biedronka,Super okazje na koniec miesiąca,2026-10-26,2026-10-31,9,115,2026-10-25,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531573/
