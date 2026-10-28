@@ -1,6 +1,8 @@
 gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobranie,url
 531585,Lidl,Katalog,2026-11-02,2026-11-08,68,203,2026-10-26,2026-10-28,https://blix.pl/sklep/lidl/gazetka/531585/
+532287,Lidl,Oferta od czwartku,2026-10-29,2026-10-31,117,671,2026-10-28,2026-10-28,https://blix.pl/sklep/lidl/gazetka/532287/
 532029,Lidl,Oferta od czwartku,2026-10-29,2026-10-31,119,669,2026-10-28,2026-10-28,https://blix.pl/sklep/lidl/gazetka/532029/
+532215,Kaufland,Barek Kauflandu,2026-10-29,2026-11-10,37,155,2026-10-28,2026-10-28,https://blix.pl/sklep/kaufland/gazetka/532215/
 531774,Kaufland,Gazetka Tygodnia,2026-10-29,2026-11-04,67,574,2026-10-27,2026-10-28,https://blix.pl/sklep/kaufland/gazetka/531774/
 531771,Kaufland,Oferta Kaufland - Non Food,2026-10-29,2026-11-10,17,136,2026-10-27,2026-10-28,https://blix.pl/sklep/kaufland/gazetka/531771/
 531726,Kaufland,Oferta Kaufland - Znicze,2026-10-29,2026-11-04,21,76,2026-10-27,2026-10-28,https://blix.pl/sklep/kaufland/gazetka/531726/
@@ -9,6 +11,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 531819,Biedronka,Zakupowe Inspiracje - produkty do domu i dodatki modowe,2026-10-27,,19,18,2026-10-27,2026-10-28,https://blix.pl/sklep/biedronka/gazetka/531819/
 531816,Biedronka,Zakupowe Inspiracje w Biedronce,2026-10-27,,19,16,2026-10-27,2026-10-28,https://blix.pl/sklep/biedronka/gazetka/531816/
 531768,Biedronka,Wtorek supercen,2026-10-27,2026-10-27,3,42,2026-10-27,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531768/
+532194,Lidl,Katalog,2026-10-26,2026-10-31,60,219,2026-10-28,2026-10-28,https://blix.pl/sklep/lidl/gazetka/532194/
 531873,Lidl,Katalog,2026-10-26,2026-10-31,60,219,2026-10-27,2026-10-28,https://blix.pl/sklep/lidl/gazetka/531873/
 531861,Lidl,Oferta od poniedziałku,2026-10-26,2026-10-28,121,646,2026-10-27,2026-10-28,https://blix.pl/sklep/lidl/gazetka/531861/
 531708,Lidl,Katalog,2026-10-26,2026-10-31,60,219,2026-10-26,2026-10-27,https://blix.pl/sklep/lidl/gazetka/531708/
@@ -29,6 +32,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 531567,Biedronka,Od poniedziałku,2026-10-26,2026-10-31,98,1010,2026-10-25,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531567/
 531429,Biedronka,Piernik staropolski dojrzewający - sprawdź przepis,2026-10-25,,11,0,2026-10-25,2026-10-28,https://blix.pl/sklep/biedronka/gazetka/531429/
 531249,Kaufland,Oferta Kaufland - SUPER SOBOTA,2026-10-24,2026-10-24,27,210,2026-10-23,2026-10-24,https://blix.pl/sklep/kaufland/gazetka/531249/
+532254,Biedronka,"Hity i inspiracje, od 24.10",2026-10-24,2026-11-10,47,265,2026-10-28,2026-10-28,https://blix.pl/sklep/biedronka/gazetka/532254/
 531579,Biedronka,"Hity i inspiracje, od 24.10",2026-10-24,2026-11-10,47,265,2026-10-25,2026-10-28,https://blix.pl/sklep/biedronka/gazetka/531579/
 531546,Biedronka,Od soboty,2026-10-24,2026-10-31,2,0,2026-10-24,2026-10-28,https://blix.pl/sklep/biedronka/gazetka/531546/
 531300,Biedronka,"Hity i inspiracje, od 24.10",2026-10-24,2026-11-10,47,265,2026-10-24,2026-10-25,https://blix.pl/sklep/biedronka/gazetka/531300/
@@ -85,6 +89,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 530088,Biedronka,Od poniedziałku,2026-10-19,2026-10-24,97,935,2026-10-18,2026-10-18,https://blix.pl/sklep/biedronka/gazetka/530088/
 529935,Biedronka,Dyniowe cynamonki z polewą Lotus Biscoff - sprawdź przepis,2026-10-18,2026-10-24,14,0,2026-10-18,2026-10-24,https://blix.pl/sklep/biedronka/gazetka/529935/
 529665,Kaufland,Oferta Kaufland - SUPER SOBOTA,2026-10-17,2026-10-17,31,221,2026-10-16,2026-10-17,https://blix.pl/sklep/kaufland/gazetka/529665/
+532233,Biedronka,"Hity i inspiracje, od 17.10",2026-10-17,2026-11-04,47,202,2026-10-28,2026-10-28,https://blix.pl/sklep/biedronka/gazetka/532233/
 531582,Biedronka,"Hity i inspiracje, od 17.10",2026-10-17,2026-11-04,47,202,2026-10-25,2026-10-28,https://blix.pl/sklep/biedronka/gazetka/531582/
 531024,Biedronka,"Hity i inspiracje, od 17.10",2026-10-17,2026-11-04,47,207,2026-10-22,2026-10-25,https://blix.pl/sklep/biedronka/gazetka/531024/
 529731,Biedronka,"Hity i inspiracje, od 17.10",2026-10-17,2026-11-04,45,207,2026-10-16,2026-10-22,https://blix.pl/sklep/biedronka/gazetka/529731/
