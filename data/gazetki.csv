@@ -1,12 +1,17 @@
 gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobranie,url
 531585,Lidl,Katalog,2026-11-02,2026-11-08,68,203,2026-10-26,2026-10-30,https://blix.pl/sklep/lidl/gazetka/531585/
+532746,Kaufland,Mocny Start,2026-10-31,2026-11-04,35,289,2026-10-30,2026-10-30,https://blix.pl/sklep/kaufland/gazetka/532746/
+532728,Kaufland,Oferta Kaufland - SUPER SOBOTA,2026-10-31,2026-10-31,27,183,2026-10-30,2026-10-30,https://blix.pl/sklep/kaufland/gazetka/532728/
+532872,Biedronka,Super okazje na koniec miesiąca,2026-10-31,2026-10-31,4,41,2026-10-30,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532872/
 532599,Biedronka,"Hity i inspiracje, od 31.10",2026-10-31,2026-11-18,37,168,2026-10-30,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532599/
+532863,Biedronka,Tani Weekend,2026-10-30,2026-10-31,5,39,2026-10-30,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532863/
 532632,Biedronka,Zakupowe Inspiracje - produkty do domu i dodatki modowe,2026-10-30,,19,18,2026-10-30,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532632/
 532629,Biedronka,Zakupowe Inspiracje w Biedronce,2026-10-30,,19,18,2026-10-30,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532629/
 532581,Biedronka,Tani Weekend,2026-10-30,2026-10-31,4,38,2026-10-29,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532581/
 532422,Biedronka,Jesienne wypieki - przegląd cen,2026-10-30,2026-11-02,13,0,2026-10-30,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532422/
+532719,Lidl,Oferta od czwartku,2026-10-29,2026-10-31,119,674,2026-10-30,2026-10-30,https://blix.pl/sklep/lidl/gazetka/532719/
 532551,Lidl,Oferta od czwartku,2026-10-29,2026-10-31,119,671,2026-10-29,2026-10-30,https://blix.pl/sklep/lidl/gazetka/532551/
-532368,Lidl,Oferta promocyjna Ballantine’s,2026-10-29,2026-10-31,11,5,2026-10-29,2026-10-30,https://blix.pl/sklep/lidl/gazetka/532368/
+532368,Lidl,Oferta promocyjna Ballantine’s,2026-10-29,2026-10-31,11,12,2026-10-29,2026-10-30,https://blix.pl/sklep/lidl/gazetka/532368/
 532287,Lidl,Oferta od czwartku,2026-10-29,2026-10-31,117,671,2026-10-28,2026-10-29,https://blix.pl/sklep/lidl/gazetka/532287/
 532029,Lidl,Oferta od czwartku,2026-10-29,2026-10-31,119,669,2026-10-28,2026-10-28,https://blix.pl/sklep/lidl/gazetka/532029/
 532443,Kaufland,Gazetka Tygodnia,2026-10-29,2026-11-04,67,574,2026-10-29,2026-10-30,https://blix.pl/sklep/kaufland/gazetka/532443/
@@ -15,6 +20,8 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 531774,Kaufland,Gazetka Tygodnia,2026-10-29,2026-11-04,67,574,2026-10-27,2026-10-29,https://blix.pl/sklep/kaufland/gazetka/531774/
 531771,Kaufland,Oferta Kaufland - Non Food,2026-10-29,2026-11-10,17,136,2026-10-27,2026-10-30,https://blix.pl/sklep/kaufland/gazetka/531771/
 531726,Kaufland,Oferta Kaufland - Znicze,2026-10-29,2026-11-04,21,76,2026-10-27,2026-10-30,https://blix.pl/sklep/kaufland/gazetka/531726/
+532878,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-10-29,2026-11-04,99,750,2026-10-30,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532878/
+532875,Biedronka,Od czwartku,2026-10-29,2026-11-04,99,730,2026-10-30,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532875/
 532578,Biedronka,Od czwartku,2026-10-29,2026-11-04,99,741,2026-10-29,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532578/
 532575,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-10-29,2026-11-04,99,761,2026-10-29,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532575/
 532494,Biedronka,Przeliczamy promocje!,2026-10-29,2026-10-31,11,11,2026-10-29,2026-10-30,https://blix.pl/sklep/biedronka/gazetka/532494/
@@ -260,6 +267,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 526611,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-10-01,2026-10-07,95,673,2026-09-30,2026-10-01,https://blix.pl/sklep/biedronka/gazetka/526611/
 526608,Biedronka,Od czwartku,2026-10-01,2026-10-07,95,662,2026-09-30,2026-10-01,https://blix.pl/sklep/biedronka/gazetka/526608/
 526179,Biedronka,Produkty na jesienną zupę - przegląd cen,2026-10-01,2026-10-03,15,0,2026-09-30,2026-10-03,https://blix.pl/sklep/biedronka/gazetka/526179/
+532692,Lidl,Katalog alkoholi mocnych,2026-09-29,2026-10-31,23,67,2026-10-30,2026-10-30,https://blix.pl/sklep/lidl/gazetka/532692/
 528363,Lidl,Katalog alkoholi mocnych,2026-09-29,2026-10-31,24,75,2026-10-09,2026-10-30,https://blix.pl/sklep/lidl/gazetka/528363/
 527037,Lidl,Katalog alkoholi mocnych,2026-09-29,2026-10-31,23,67,2026-10-02,2026-10-09,https://blix.pl/sklep/lidl/gazetka/527037/
 526182,Lidl,Karta Win,2026-09-29,2026-10-31,24,46,2026-09-29,2026-10-30,https://blix.pl/sklep/lidl/gazetka/526182/
