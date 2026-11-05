@@ -1,5 +1,7 @@
 gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobranie,url
 532992,Lidl,Katalog,2026-11-09,2026-11-14,65,213,2026-11-02,2026-11-05,https://blix.pl/sklep/lidl/gazetka/532992/
+534132,Biedronka,Tani weekend,2026-11-06,2026-11-07,3,29,2026-11-05,2026-11-05,https://blix.pl/sklep/biedronka/gazetka/534132/
+534102,Lidl,Oferta od czwartku,2026-11-05,2026-11-07,117,631,2026-11-05,2026-11-05,https://blix.pl/sklep/lidl/gazetka/534102/
 533940,Lidl,Oferta od czwartku,2026-11-05,2026-11-07,117,632,2026-11-05,2026-11-05,https://blix.pl/sklep/lidl/gazetka/533940/
 533889,Lidl,Karta Win,2026-11-05,2026-11-25,29,45,2026-11-05,2026-11-05,https://blix.pl/sklep/lidl/gazetka/533889/
 533742,Lidl,Oferta od czwartku,2026-11-05,2026-11-07,117,636,2026-11-04,2026-11-04,https://blix.pl/sklep/lidl/gazetka/533742/
@@ -49,6 +51,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 532809,Biedronka,Jesienne przepisy z cytryną - zainspiruj się,2026-11-01,,9,0,2026-11-01,2026-11-05,https://blix.pl/sklep/biedronka/gazetka/532809/
 532746,Kaufland,Mocny Start,2026-10-31,2026-11-04,35,289,2026-10-30,2026-11-04,https://blix.pl/sklep/kaufland/gazetka/532746/
 532728,Kaufland,Oferta Kaufland - SUPER SOBOTA,2026-10-31,2026-10-31,27,183,2026-10-30,2026-10-31,https://blix.pl/sklep/kaufland/gazetka/532728/
+534138,Biedronka,"Hity i inspiracje, od 31.10",2026-10-31,2026-11-18,39,164,2026-11-05,2026-11-05,https://blix.pl/sklep/biedronka/gazetka/534138/
 533934,Biedronka,"Hity i inspiracje, od 31.10",2026-10-31,2026-11-18,38,164,2026-11-05,2026-11-05,https://blix.pl/sklep/biedronka/gazetka/533934/
 533616,Biedronka,"Hity i inspiracje, od 31.10",2026-10-31,2026-11-18,39,171,2026-11-04,2026-11-04,https://blix.pl/sklep/biedronka/gazetka/533616/
 532872,Biedronka,Super okazje na koniec miesiąca,2026-10-31,2026-10-31,4,41,2026-10-30,2026-10-31,https://blix.pl/sklep/biedronka/gazetka/532872/
@@ -108,6 +111,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 531567,Biedronka,Od poniedziałku,2026-10-26,2026-10-31,98,1010,2026-10-25,2026-10-27,https://blix.pl/sklep/biedronka/gazetka/531567/
 531429,Biedronka,Piernik staropolski dojrzewający - sprawdź przepis,2026-10-25,,11,0,2026-10-25,2026-10-31,https://blix.pl/sklep/biedronka/gazetka/531429/
 531249,Kaufland,Oferta Kaufland - SUPER SOBOTA,2026-10-24,2026-10-24,27,210,2026-10-23,2026-10-24,https://blix.pl/sklep/kaufland/gazetka/531249/
+534135,Biedronka,"Hity i inspiracje, od 24.10",2026-10-24,2026-11-10,47,254,2026-11-05,2026-11-05,https://blix.pl/sklep/biedronka/gazetka/534135/
 533622,Biedronka,"Hity i inspiracje, od 24.10",2026-10-24,2026-11-10,47,254,2026-11-04,2026-11-05,https://blix.pl/sklep/biedronka/gazetka/533622/
 532254,Biedronka,"Hity i inspiracje, od 24.10",2026-10-24,2026-11-10,47,265,2026-10-28,2026-11-03,https://blix.pl/sklep/biedronka/gazetka/532254/
 531579,Biedronka,"Hity i inspiracje, od 24.10",2026-10-24,2026-11-10,47,265,2026-10-25,2026-10-28,https://blix.pl/sklep/biedronka/gazetka/531579/
@@ -365,6 +369,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 524442,Biedronka,"Znicze, wkłady i kwiaty",2026-09-21,,17,63,2026-09-28,2026-10-03,https://blix.pl/sklep/biedronka/gazetka/524442/
 526536,Biedronka,"Hity i inspiracje, od 19.09",2026-09-19,2026-10-07,47,287,2026-09-30,2026-10-07,https://blix.pl/sklep/biedronka/gazetka/526536/
 525876,Biedronka,"Hity i inspiracje, od 19.09",2026-09-19,2026-10-07,47,287,2026-09-28,2026-09-30,https://blix.pl/sklep/biedronka/gazetka/525876/
+534096,Lidl,Rewolucja Cenowa!,2026-09-16,2026-12-31,37,222,2026-11-05,2026-11-05,https://blix.pl/sklep/lidl/gazetka/534096/
 533370,Lidl,Rewolucja Cenowa!,2026-09-16,2026-12-31,39,234,2026-11-03,2026-11-05,https://blix.pl/sklep/lidl/gazetka/533370/
 533031,Lidl,Rewolucja Cenowa!,2026-09-16,2026-12-31,38,233,2026-11-02,2026-11-03,https://blix.pl/sklep/lidl/gazetka/533031/
 532548,Lidl,Rewolucja Cenowa!,2026-09-16,2026-12-31,39,234,2026-10-29,2026-11-01,https://blix.pl/sklep/lidl/gazetka/532548/
