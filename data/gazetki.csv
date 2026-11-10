@@ -1,14 +1,18 @@
 gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobranie,url
+535218,Lidl,Katalog,2026-11-16,2026-11-21,65,191,2026-11-10,2026-11-10,https://blix.pl/sklep/lidl/gazetka/535218/
 534963,Lidl,Katalog,2026-11-16,2026-11-21,65,191,2026-11-10,2026-11-10,https://blix.pl/sklep/lidl/gazetka/534963/
 534714,Lidl,Katalog,2026-11-16,2026-11-21,64,190,2026-11-10,2026-11-10,https://blix.pl/sklep/lidl/gazetka/534714/
 534474,Lidl,Katalog,2026-11-16,2026-11-21,64,180,2026-11-09,2026-11-09,https://blix.pl/sklep/lidl/gazetka/534474/
+535182,Kaufland,Oferta Kaufland - zwierzęta,2026-11-12,2026-11-25,13,97,2026-11-10,2026-11-10,https://blix.pl/sklep/kaufland/gazetka/535182/
+535128,Kaufland,Świąteczne dekoracje,2026-11-12,2026-11-18,41,245,2026-11-10,2026-11-10,https://blix.pl/sklep/kaufland/gazetka/535128/
 534855,Kaufland,Barek Kauflandu,2026-11-12,2026-11-25,37,159,2026-11-10,2026-11-10,https://blix.pl/sklep/kaufland/gazetka/534855/
 534852,Kaufland,Oferta Kaufland - Non Food,2026-11-12,2026-11-25,21,142,2026-11-10,2026-11-10,https://blix.pl/sklep/kaufland/gazetka/534852/
 534783,Kaufland,Gazetka tygodnia,2026-11-12,2026-11-18,69,583,2026-11-10,2026-11-10,https://blix.pl/sklep/kaufland/gazetka/534783/
-535059,Kaufland,Katalog dziecięcych marzeń,2026-11-10,2026-11-18,73,0,2026-11-10,2026-11-10,https://blix.pl/sklep/kaufland/gazetka/535059/
+535059,Kaufland,Katalog dziecięcych marzeń,2026-11-10,2026-12-23,73,365,2026-11-10,2026-11-10,https://blix.pl/sklep/kaufland/gazetka/535059/
 534906,Kaufland,Zabawki,2026-11-10,2026-12-23,27,122,2026-11-10,2026-11-10,https://blix.pl/sklep/kaufland/gazetka/534906/
 534807,Biedronka,Zakupowe Inspiracje - produkty do domu i dodatki modowe,2026-11-10,,19,18,2026-11-10,2026-11-10,https://blix.pl/sklep/biedronka/gazetka/534807/
 534804,Biedronka,Zakupowe Inspiracje w Biedronce,2026-11-10,,20,19,2026-11-10,2026-11-10,https://blix.pl/sklep/biedronka/gazetka/534804/
+535188,Lidl,Oferta od poniedziałku,2026-11-09,2026-11-10,103,546,2026-11-10,2026-11-10,https://blix.pl/sklep/lidl/gazetka/535188/
 534897,Lidl,Oferta od poniedziałku,2026-11-09,2026-11-10,103,546,2026-11-10,2026-11-10,https://blix.pl/sklep/lidl/gazetka/534897/
 534717,Lidl,Oferta od poniedziałku,2026-11-09,2026-11-10,105,549,2026-11-10,2026-11-10,https://blix.pl/sklep/lidl/gazetka/534717/
 534609,Lidl,Katalog,2026-11-09,2026-11-14,66,227,2026-11-09,2026-11-10,https://blix.pl/sklep/lidl/gazetka/534609/
@@ -18,6 +22,9 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 532992,Lidl,Katalog,2026-11-09,2026-11-14,65,213,2026-11-02,2026-11-08,https://blix.pl/sklep/lidl/gazetka/532992/
 534708,Kaufland,Mocny Start,2026-11-09,2026-11-10,35,284,2026-11-10,2026-11-10,https://blix.pl/sklep/kaufland/gazetka/534708/
 534306,Kaufland,Mocny Start,2026-11-09,2026-11-10,35,284,2026-11-07,2026-11-09,https://blix.pl/sklep/kaufland/gazetka/534306/
+535239,Biedronka,Super okazje,2026-11-09,2026-11-10,12,44,2026-11-10,2026-11-10,https://blix.pl/sklep/biedronka/gazetka/535239/
+535113,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-11-09,2026-11-14,98,970,2026-11-10,2026-11-10,https://blix.pl/sklep/biedronka/gazetka/535113/
+535098,Biedronka,Od poniedziałku,2026-11-09,2026-11-14,99,964,2026-11-10,2026-11-10,https://blix.pl/sklep/biedronka/gazetka/535098/
 535062,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-11-09,2026-11-14,98,0,2026-11-10,2026-11-10,https://blix.pl/sklep/biedronka/gazetka/535062/
 535056,Biedronka,Od poniedziałku,2026-11-09,2026-11-14,99,0,2026-11-10,2026-11-10,https://blix.pl/sklep/biedronka/gazetka/535056/
 534636,Biedronka,Festiwal nabiału,2026-11-09,2026-11-10,4,24,2026-11-09,2026-11-10,https://blix.pl/sklep/biedronka/gazetka/534636/
@@ -85,6 +92,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 533010,Lidl,Katalog alkoholi mocnych,2026-11-02,2026-11-30,29,82,2026-11-02,2026-11-06,https://blix.pl/sklep/lidl/gazetka/533010/
 532947,Lidl,Oferta od poniedziałku,2026-11-02,2026-11-04,111,571,2026-11-01,2026-11-01,https://blix.pl/sklep/lidl/gazetka/532947/
 531585,Lidl,Katalog,2026-11-02,2026-11-08,68,203,2026-10-26,2026-11-03,https://blix.pl/sklep/lidl/gazetka/531585/
+535248,Biedronka,Magiczna kraina zabawek,2026-11-02,,101,801,2026-11-10,2026-11-10,https://blix.pl/sklep/biedronka/gazetka/535248/
 534330,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-11-02,2026-11-07,114,1051,2026-11-06,2026-11-07,https://blix.pl/sklep/biedronka/gazetka/534330/
 534324,Biedronka,Od poniedziałku,2026-11-02,2026-11-07,114,1097,2026-11-06,2026-11-07,https://blix.pl/sklep/biedronka/gazetka/534324/
 534204,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-11-02,2026-11-07,114,1051,2026-11-06,2026-11-06,https://blix.pl/sklep/biedronka/gazetka/534204/
