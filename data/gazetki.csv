@@ -1,7 +1,11 @@
 gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobranie,url
 536220,Lidl,Katalog,2026-11-23,2026-11-28,66,142,2026-11-17,2026-11-17,https://blix.pl/sklep/lidl/gazetka/536220/
 536088,Lidl,Katalog,2026-11-23,2026-11-28,65,142,2026-11-16,2026-11-16,https://blix.pl/sklep/lidl/gazetka/536088/
+536313,Kaufland,Świąteczne dekoracje,2026-11-19,2026-11-25,43,245,2026-11-17,2026-11-17,https://blix.pl/sklep/kaufland/gazetka/536313/
+536295,Kaufland,Gazetka tygodnia,2026-11-19,2026-11-25,69,635,2026-11-17,2026-11-17,https://blix.pl/sklep/kaufland/gazetka/536295/
+536277,Kaufland,Świąteczna oferta Kaufland,2026-11-19,2026-12-09,21,198,2026-11-17,2026-11-17,https://blix.pl/sklep/kaufland/gazetka/536277/
 536190,Kaufland,Oferta Kaufland - Non Food,2026-11-19,2026-12-02,19,144,2026-11-17,2026-11-17,https://blix.pl/sklep/kaufland/gazetka/536190/
+536274,Biedronka,Zakupowe Inspiracje - produkty do domu i dodatki modowe,2026-11-17,,20,19,2026-11-17,2026-11-17,https://blix.pl/sklep/biedronka/gazetka/536274/
 536253,Biedronka,Festiwal nabiału,2026-11-17,2026-11-21,6,25,2026-11-17,2026-11-17,https://blix.pl/sklep/biedronka/gazetka/536253/
 536250,Biedronka,Festiwal wędlin,2026-11-17,2026-11-21,4,26,2026-11-17,2026-11-17,https://blix.pl/sklep/biedronka/gazetka/536250/
 536217,Lidl,Oferta od poniedziałku,2026-11-16,2026-11-18,100,517,2026-11-17,2026-11-17,https://blix.pl/sklep/lidl/gazetka/536217/
@@ -495,6 +499,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 524442,Biedronka,"Znicze, wkłady i kwiaty",2026-09-21,,17,63,2026-09-28,2026-10-03,https://blix.pl/sklep/biedronka/gazetka/524442/
 526536,Biedronka,"Hity i inspiracje, od 19.09",2026-09-19,2026-10-07,47,287,2026-09-30,2026-10-07,https://blix.pl/sklep/biedronka/gazetka/526536/
 525876,Biedronka,"Hity i inspiracje, od 19.09",2026-09-19,2026-10-07,47,287,2026-09-28,2026-09-30,https://blix.pl/sklep/biedronka/gazetka/525876/
+536409,Lidl,Rewolucja Cenowa!,2026-09-16,2026-12-31,37,222,2026-11-17,2026-11-17,https://blix.pl/sklep/lidl/gazetka/536409/
 535521,Lidl,Rewolucja Cenowa!,2026-09-16,2026-12-31,37,222,2026-11-12,2026-11-17,https://blix.pl/sklep/lidl/gazetka/535521/
 534417,Lidl,Rewolucja Cenowa!,2026-09-16,2026-12-31,37,222,2026-11-07,2026-11-12,https://blix.pl/sklep/lidl/gazetka/534417/
 534096,Lidl,Rewolucja Cenowa!,2026-09-16,2026-12-31,37,222,2026-11-05,2026-11-06,https://blix.pl/sklep/lidl/gazetka/534096/
