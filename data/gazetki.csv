@@ -5,8 +5,10 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 536220,Lidl,Katalog,2026-11-23,2026-11-28,66,142,2026-11-17,2026-11-18,https://blix.pl/sklep/lidl/gazetka/536220/
 536088,Lidl,Katalog,2026-11-23,2026-11-28,65,142,2026-11-16,2026-11-16,https://blix.pl/sklep/lidl/gazetka/536088/
 537390,Kaufland,Mocny Start,2026-11-23,2026-11-25,37,345,2026-11-21,2026-11-22,https://blix.pl/sklep/kaufland/gazetka/537390/
-537711,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-11-23,2026-11-28,91,0,2026-11-22,2026-11-22,https://blix.pl/sklep/biedronka/gazetka/537711/
-537708,Biedronka,Od poniedziałku,2026-11-23,2026-11-28,91,0,2026-11-22,2026-11-22,https://blix.pl/sklep/biedronka/gazetka/537708/
+537711,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-11-23,2026-11-28,91,1194,2026-11-22,2026-11-22,https://blix.pl/sklep/biedronka/gazetka/537711/
+537708,Biedronka,Od poniedziałku,2026-11-23,2026-11-28,91,1186,2026-11-22,2026-11-22,https://blix.pl/sklep/biedronka/gazetka/537708/
+537573,Biedronka,Warzywa i owoce - przegląd cen,2026-11-23,2026-11-28,15,22,2026-11-22,2026-11-22,https://blix.pl/sklep/biedronka/gazetka/537573/
+537576,Biedronka,Świąteczne wypieki - zainspiruj się,2026-11-22,,5,0,2026-11-22,2026-11-22,https://blix.pl/sklep/biedronka/gazetka/537576/
 537243,Kaufland,Oferta Kaufland - SUPER SOBOTA,2026-11-21,2026-11-21,33,292,2026-11-20,2026-11-21,https://blix.pl/sklep/kaufland/gazetka/537243/
 537312,Biedronka,"Hity i inspiracje, od 21.11",2026-11-21,2026-12-09,59,360,2026-11-20,2026-11-22,https://blix.pl/sklep/biedronka/gazetka/537312/
 537531,Lidl,Selekcja whisky,2026-11-20,2026-11-30,8,14,2026-11-20,2026-11-22,https://blix.pl/sklep/lidl/gazetka/537531/
