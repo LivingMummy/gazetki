@@ -1,16 +1,23 @@
 gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobranie,url
 538356,Lidl,Katalog,2026-11-30,2026-12-06,72,215,2026-11-24,2026-11-26,https://blix.pl/sklep/lidl/gazetka/538356/
 537714,Lidl,Katalog,2026-11-30,2026-12-06,72,215,2026-11-23,2026-11-24,https://blix.pl/sklep/lidl/gazetka/537714/
+538761,Lidl,Oferta od czwartku,2026-11-26,2026-11-28,110,626,2026-11-26,2026-11-26,https://blix.pl/sklep/lidl/gazetka/538761/
 538635,Lidl,Oferta od czwartku,2026-11-26,2026-11-28,108,623,2026-11-25,2026-11-26,https://blix.pl/sklep/lidl/gazetka/538635/
 538395,Lidl,Oferta od czwartku,2026-11-26,2026-11-28,108,279,2026-11-25,2026-11-25,https://blix.pl/sklep/lidl/gazetka/538395/
 538353,Lidl,Woodford w Lidlu - przygotuj swoje old fashioned!,2026-11-26,2026-11-30,6,0,2026-11-26,2026-11-26,https://blix.pl/sklep/lidl/gazetka/538353/
+538599,Kaufland,Najlepsze promocje!,2026-11-26,2026-12-02,11,0,2026-11-26,2026-11-26,https://blix.pl/sklep/kaufland/gazetka/538599/
 538527,Kaufland,Oferta Kaufland: drogeria,2026-11-26,2026-12-23,41,393,2026-11-25,2026-11-26,https://blix.pl/sklep/kaufland/gazetka/538527/
 538275,Kaufland,Świąteczne dekoracje,2026-11-26,2026-12-02,47,271,2026-11-24,2026-11-26,https://blix.pl/sklep/kaufland/gazetka/538275/
 537945,Kaufland,Gazetka Tygodnia,2026-11-26,2026-12-02,71,665,2026-11-24,2026-11-26,https://blix.pl/sklep/kaufland/gazetka/537945/
 537942,Kaufland,Oferta Kaufland - Non Food,2026-11-26,2026-12-09,21,132,2026-11-24,2026-11-26,https://blix.pl/sklep/kaufland/gazetka/537942/
+538875,Biedronka,Nowości w Biedronce!,2026-11-26,2026-11-28,11,0,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538875/
+538740,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-11-26,2026-12-02,100,941,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538740/
+538734,Biedronka,Od czwartku,2026-11-26,2026-12-02,100,935,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538734/
+538710,Biedronka,Biedronkowe oszczędności od czwartku,2026-11-26,2026-11-28,15,39,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538710/
 538689,Biedronka,"Od czwartku, Z ladą tradycyjną",2026-11-26,2026-12-02,92,923,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538689/
 538686,Biedronka,Od czwartku,2026-11-26,2026-12-02,92,924,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538686/
 538632,Biedronka,Produkty na świąteczne wypieki - przegląd cen,2026-11-26,2026-11-28,14,23,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538632/
+538851,Biedronka,Black Week,2026-11-25,2026-11-28,8,120,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538851/
 538698,Biedronka,Niskie ceny i najlepsze promocje,2026-11-25,2026-11-29,4,11,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538698/
 538416,Biedronka,Black Week,2026-11-25,2026-11-28,6,120,2026-11-25,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538416/
 538371,Biedronka,Black Week,2026-11-25,2026-11-28,5,123,2026-11-25,2026-11-25,https://blix.pl/sklep/biedronka/gazetka/538371/
@@ -32,6 +39,8 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 536220,Lidl,Katalog,2026-11-23,2026-11-28,66,142,2026-11-17,2026-11-18,https://blix.pl/sklep/lidl/gazetka/536220/
 536088,Lidl,Katalog,2026-11-23,2026-11-28,65,142,2026-11-16,2026-11-16,https://blix.pl/sklep/lidl/gazetka/536088/
 537390,Kaufland,Mocny Start,2026-11-23,2026-11-25,37,345,2026-11-21,2026-11-25,https://blix.pl/sklep/kaufland/gazetka/537390/
+538731,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-11-23,2026-11-28,94,1078,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538731/
+538728,Biedronka,Od poniedziałku,2026-11-23,2026-11-28,94,1068,2026-11-26,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538728/
 538446,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-11-23,2026-11-28,92,1163,2026-11-25,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538446/
 538422,Biedronka,Od poniedziałku,2026-11-23,2026-11-28,92,1152,2026-11-25,2026-11-26,https://blix.pl/sklep/biedronka/gazetka/538422/
 537987,Biedronka,"Od poniedziałku, Z ladą tradycyjną",2026-11-23,2026-11-28,92,1163,2026-11-24,2026-11-25,https://blix.pl/sklep/biedronka/gazetka/537987/
@@ -57,6 +66,7 @@ gazetka_id,sklep,nazwa,od,do,strony,liczba_ofert,pierwsze_pobranie,ostatnie_pobr
 537102,Lidl,Oferta od czwartku,2026-11-19,2026-11-21,101,551,2026-11-19,2026-11-20,https://blix.pl/sklep/lidl/gazetka/537102/
 537006,Lidl,Oferta od czwartku,2026-11-19,2026-11-21,99,549,2026-11-18,2026-11-18,https://blix.pl/sklep/lidl/gazetka/537006/
 536832,Lidl,Oferta od czwartku,2026-11-19,2026-11-21,99,545,2026-11-18,2026-11-18,https://blix.pl/sklep/lidl/gazetka/536832/
+538911,Kaufland,Świąteczna oferta Kaufland,2026-11-19,2026-12-09,21,198,2026-11-26,2026-11-26,https://blix.pl/sklep/kaufland/gazetka/538911/
 537726,Kaufland,Gazetka tygodnia,2026-11-19,2026-11-25,69,583,2026-11-23,2026-11-25,https://blix.pl/sklep/kaufland/gazetka/537726/
 536619,Kaufland,Gazetka tygodnia,2026-11-19,2026-11-25,69,634,2026-11-18,2026-11-22,https://blix.pl/sklep/kaufland/gazetka/536619/
 536313,Kaufland,Świąteczne dekoracje,2026-11-19,2026-11-25,43,245,2026-11-17,2026-11-25,https://blix.pl/sklep/kaufland/gazetka/536313/
